@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dask/zict/commit/7e5dafedcf016a4ac61286badbf1f8da3741d2d3",
       "git:hexsha": "7e5dafedcf016a4ac61286badbf1f8da3741d2d3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:21:45.454084+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dask/zict/commit/015b5e2e192dd406dea4048b8f159ddbbb70582f",
