@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "zict",
+  "versions": [
+    {
+      "commit": "7e5dafedcf016a4ac61286badbf1f8da3741d2d3",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:21:45.454576+00:00"
+    }
+  ]
+}
